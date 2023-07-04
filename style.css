@@ -8,6 +8,9 @@ body{
 .container{
     margin-top: 18%;
 }
+img{
+    mix-blend-mode: multiply;
+}
 
 h1{
     position: relative;
